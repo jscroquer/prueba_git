@@ -1,0 +1,36 @@
+header{
+    text-align: center;
+}
+#big-title{
+font: small-caps 100%/200% serif;
+font-size: 60px;
+color: slateblue;
+margin: 30px 0 0 0;
+background-color: salmon;
+}
+#subtitle{
+    font-family: verdana;
+    color:blue;
+    margin: 0;
+    background-color: rgb(87, 133, 180);
+}
+.featured {
+    margin: 20px 60px;
+    padding: 30px 60px;
+    background-color: rgb(140, 165, 166);
+}
+.featured-title{
+    font-size: 30px;
+    margin: 0;
+}
+.featured-excerpt{
+    font-family: cursive;
+    font-size: 18px;
+}
+.news{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px 60px;
+    padding: 20px 60px;
+    border: 1px solid darkcyan;
+    background-color: burlywood;
+}
